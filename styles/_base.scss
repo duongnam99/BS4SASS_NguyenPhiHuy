@@ -1,0 +1,47 @@
+.nav-underline{
+	.nav-link{
+		padding-top:0.75rem;
+		padding-bottom:0.75rem;
+		font-size:0.875rem;
+		color:grey;
+		&:hover{
+			color: blue;
+		}
+	}
+	.active {
+  	font-weight: 500;
+  	color: var(--gray-dark);
+	}
+
+
+}
+.bg-purple{
+	background-color:#6f42c1;
+	font-size:1rem;
+}
+.lh-100{
+	line-height:0.5;
+	h6{
+		font-size:1rem;
+	}
+	small{
+		color:rgba(255, 255, 255, 0.5);
+	}
+}
+.size-p{
+	font-size:0.8rem;
+	color:gray;
+}
+.lh-1{
+	line-height:1.2;
+}
+.font-h6{
+	font-size:1rem;
+	// font-weight:300;
+}
+.box-shadow{
+	box-shadow: 0 0.1rem 0.1rem rgba(0,0,0,0.1);
+}
+// #main{
+// 	background-color:#F8F9FA;
+// }
